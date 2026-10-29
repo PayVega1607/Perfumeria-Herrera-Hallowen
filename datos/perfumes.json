@@ -1,0 +1,747 @@
+[
+ {
+  "id": "h-jean-paul-gaultier-le-male-elixir",
+  "nombre": "Jean Paul Gaultier 'Le Male' Elixir",
+  "categoria": "hombre",
+  "marca": "Jean Paul Gaultier",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-le-male-elixir.jpg",
+  "descripcion": "Elixir amaderado y especiado, intenso y magnético, para una presencia inolvidable."
+ },
+ {
+  "id": "h-valentino-uomo-born-in-roma",
+  "nombre": "Valentino Uomo Born in Roma",
+  "categoria": "hombre",
+  "marca": "Valentino",
+  "precio": 90000,
+  "imagen": "assets/imagenes/perfumes/h-valentino-uomo-born-in-roma.jpg",
+  "descripcion": "Fragancia amaderada con toques de avellana y cuero, elegante y contemporánea."
+ },
+ {
+  "id": "h-odyssey-mandarin-sky",
+  "nombre": "Odyssey Mandarin Sky",
+  "categoria": "hombre",
+  "marca": "Armaf",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-odyssey-mandarin-sky.jpg",
+  "descripcion": "Aroma cítrico y fresco de mandarina, luminoso y enérgico, edición limitada."
+ },
+ {
+  "id": "h-1-million-lucky",
+  "nombre": "1 Million Lucky",
+  "categoria": "hombre",
+  "marca": "Paco Rabanne",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-1-million-lucky.jpg",
+  "descripcion": "Notas gourmand y frutales con un toque avainillado, dulce y carismático."
+ },
+ {
+  "id": "h-1-million",
+  "nombre": "1 Million",
+  "categoria": "hombre",
+  "marca": "Paco Rabanne",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-1-million.jpg",
+  "descripcion": "Clásico especiado con canela y cuero, audaz y lleno de carácter."
+ },
+ {
+  "id": "h-lattafa-art-of-universe",
+  "nombre": "Lattafa Art of Universe",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 130000,
+  "imagen": "assets/imagenes/perfumes/h-lattafa-art-of-universe.jpg",
+  "descripcion": "Composición ámbar-especiada envolvente, lujosa y de larga duración."
+ },
+ {
+  "id": "h-paco-rabanne-invictus",
+  "nombre": "Paco Rabanne Invictus",
+  "categoria": "hombre",
+  "marca": "Paco Rabanne",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-paco-rabanne-invictus.jpg",
+  "descripcion": "Fresco marino con toques de laurel y ámbar gris, energía y frescura pura."
+ },
+ {
+  "id": "h-212-vip-black",
+  "nombre": "212 VIP Black",
+  "categoria": "hombre",
+  "marca": "Carolina Herrera",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-212-vip-black.jpg",
+  "descripcion": "Oriental especiado con café y cacao, intenso y perfecto para la noche."
+ },
+ {
+  "id": "h-versace-eros",
+  "nombre": "Versace Eros",
+  "categoria": "hombre",
+  "marca": "Versace",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-versace-eros.jpg",
+  "descripcion": "Fresco y sensual, con menta, manzana verde y toques amaderados."
+ },
+ {
+  "id": "h-armaf-club-de-nuit-intense-man",
+  "nombre": "Armaf Club de Nuit Intense Man",
+  "categoria": "hombre",
+  "marca": "Armaf",
+  "precio": null,
+  "imagen": "assets/imagenes/perfumes/h-armaf-club-de-nuit-intense-man.jpg",
+  "descripcion": "Aroma amaderado especiado de gran proyección inspirado en la alta perfumería francesa."
+ },
+ {
+  "id": "h-issey-miyake-leau-dissey-pour-homme",
+  "nombre": "Issey Miyake L'Eau d'Issey Pour Homme",
+  "categoria": "hombre",
+  "marca": "Issey Miyake",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-issey-miyake-leau-dissey-pour-homme.jpg",
+  "descripcion": "Fresco acuático y limpio, ideal para el uso diario con un toque sofisticado."
+ },
+ {
+  "id": "h-lattafa-asad-bourbon",
+  "nombre": "Lattafa Asad Bourbon",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-lattafa-asad-bourbon.jpg",
+  "descripcion": "Cálido y gourmand, con notas de bourbon y especias que abrazan la piel."
+ },
+ {
+  "id": "h-dior-sauvage",
+  "nombre": "Dior Sauvage",
+  "categoria": "hombre",
+  "marca": "Dior",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-dior-sauvage.jpg",
+  "descripcion": "Fresco y radiante, con bergamota y ambroxan, un clásico moderno indiscutible."
+ },
+ {
+  "id": "h-lacoste-l-12-12-blanc",
+  "nombre": "Lacoste L.12.12 Blanc",
+  "categoria": "hombre",
+  "marca": "Lacoste",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-lacoste-l-12-12-blanc.jpg",
+  "descripcion": "Fragancia limpia y fresca con toques cítricos, elegancia casual todos los días."
+ },
+ {
+  "id": "h-lattafa-his-confession",
+  "nombre": "Lattafa His Confession",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-lattafa-his-confession.jpg",
+  "descripcion": "Oriental dulce con vainilla y ámbar, lujoso, envolvente y memorable."
+ },
+ {
+  "id": "h-versace-eros-energy",
+  "nombre": "Versace Eros Energy",
+  "categoria": "hombre",
+  "marca": "Versace",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/h-versace-eros-energy.jpg",
+  "descripcion": "Cítrico y aromático, vibrante y fresco, energía pura en cada aplicación."
+ },
+ {
+  "id": "h-afnan-9-pm",
+  "nombre": "Afnan 9 PM",
+  "categoria": "hombre",
+  "marca": "Afnan",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-afnan-9-pm.jpg",
+  "descripcion": "Oriental amaderado con vainilla y cacao, cálido, dulce y seductor."
+ },
+ {
+  "id": "h-hawas-elixir",
+  "nombre": "Hawas Elixir",
+  "categoria": "hombre",
+  "marca": "Sin marca indicada",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-hawas-elixir.jpg",
+  "descripcion": "Especiado y amaderado con un toque afrutado, intenso y de gran fijación."
+ },
+ {
+  "id": "h-set-lattafa-khamrah-dukhan-qahwa-khamrah",
+  "nombre": "Set Lattafa Khamrah (Dukhan, Qahwa, Khamrah)",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 150000,
+  "imagen": "assets/imagenes/perfumes/h-set-lattafa-khamrah-dukhan-qahwa-khamrah.jpg",
+  "descripcion": "Trío especiado envolvente con notas de café, incienso y especias cálidas.",
+  "descripcionDetallada": "Reúne tres versiones de la línea Khamrah: la original, dulce, de dátiles y praliné; Qahwa, con café y canela; y Dukhan, ahumada, con incienso y tabaco. Una forma de comparar tres caras de la misma familia."
+ },
+ {
+  "id": "h-set-badee-al-oud-saffron-amethyst-honor-colony",
+  "nombre": "Set Bade'e Al Oud (Saffron, Amethyst, Honor & Glory)",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 150000,
+  "imagen": "assets/imagenes/perfumes/h-set-badee-al-oud-saffron-amethyst-honor-colony.jpg",
+  "descripcion": "Trío árabe de oud y especias, exclusivo, cálido y de carácter distintivo."
+ },
+ {
+  "id": "h-afnan-9-pm-elixir",
+  "nombre": "Afnan 9 PM Elixir",
+  "categoria": "hombre",
+  "marca": "Afnan",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/h-afnan-9-pm-elixir.jpg",
+  "descripcion": "Oriental intenso con cacao y maderas ahumadas, envolvente y de larga estela."
+ },
+ {
+  "id": "h-creed-silver-mountain-water",
+  "nombre": "Creed Silver Mountain Water",
+  "categoria": "hombre",
+  "marca": "Creed",
+  "precio": 75000,
+  "imagen": "assets/imagenes/perfumes/h-creed-silver-mountain-water.jpg",
+  "descripcion": "Fresco cítrico con té verde y almizcle limpio, elegancia atemporal."
+ },
+ {
+  "id": "h-afnan-9am-dive",
+  "nombre": "Afnan 9AM Dive",
+  "categoria": "hombre",
+  "marca": "Afnan",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-afnan-9am-dive.jpg",
+  "descripcion": "Fresco acuático con cítricos y notas marinas, vibrante, limpio y perfecto para comenzar el día."
+ },
+ {
+  "id": "h-bharara-king",
+  "nombre": "Bharara King",
+  "categoria": "hombre",
+  "marca": "Bharara",
+  "precio": 115000,
+  "imagen": "assets/imagenes/perfumes/h-bharara-king.jpg",
+  "descripcion": "Amaderado especiado con toques dulces, poderoso, regio y distintivo."
+ },
+ {
+  "id": "h-jean-paul-gaultier-le-male-le-parfum",
+  "nombre": "Jean Paul Gaultier Le Male Le Parfum",
+  "categoria": "hombre",
+  "marca": "Jean Paul Gaultier",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-le-male-le-parfum.jpg",
+  "descripcion": "Vainilla y lavanda sobre fondo amaderado, cálido, denso y seductor."
+ },
+ {
+  "id": "h-jean-paul-gaultier-ultra-male",
+  "nombre": "Jean Paul Gaultier Ultra Male",
+  "categoria": "hombre",
+  "marca": "Jean Paul Gaultier",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-ultra-male.jpg",
+  "descripcion": "Gourmand especiado con canela y miel, intenso, atrevido y magnético."
+ },
+ {
+  "id": "h-jean-paul-gaultier-le-beau",
+  "nombre": "Jean Paul Gaultier Le Beau",
+  "categoria": "hombre",
+  "marca": "Jean Paul Gaultier",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-le-beau.jpg",
+  "descripcion": "Dulce y amaderado con coco y notas cálidas, una fragancia intensa, elegante y seductora."
+ },
+ {
+  "id": "h-jean-paul-gaultier-paradise-garden",
+  "nombre": "Jean Paul Gaultier Paradise Garden",
+  "categoria": "hombre",
+  "marca": "Jean Paul Gaultier",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-jean-paul-gaultier-paradise-garden.jpg",
+  "descripcion": "Floral verde y afrutado con coco, exótico y radiante en cada aplicación."
+ },
+ {
+  "id": "h-khamrah-lattafa",
+  "nombre": "Khamrah Lattafa",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-lattafa.jpg",
+  "descripcion": "Aromática y cálida, con notas dulces de canela, dátiles y vainilla, dejando un aroma envolvente, elegante y duradero.",
+  "descripcionDetallada": "La más dulce de la familia Khamrah: arranca especiada con canela, nuez moscada y bergamota, desarrolla un corazón de dátiles, praliné y nardo, y se asienta en una base cálida de vainilla, haba tonka, ámbar amaderado y mirra.",
+  "notas": {
+   "salida": "Canela, nuez moscada, bergamota",
+   "corazon": "Dátiles, praliné, nardo, mahonial",
+   "fondo": "Vainilla, haba tonka, amberwood, mirra, benjuí, akigalawood"
+  }
+ },
+ {
+  "id": "h-khamrah-qahwa-lattafa",
+  "nombre": "Khamrah Qahwa Lattafa",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-qahwa-lattafa.jpg",
+  "descripcion": "Cálida y especiada, con notas de café, canela y vainilla, dejando una estela intensa y dulce.",
+  "descripcionDetallada": "Café y especias en versión golosa y madura: empieza con canela, cardamomo y jengibre, sigue con praliné, frutas confitadas y flores blancas, y cierra con vainilla, café y almizcle. Es menos dulce que la Khamrah original.",
+  "notas": {
+   "salida": "Canela, cardamomo, jengibre",
+   "corazon": "Praliné, frutas confitadas, flores blancas",
+   "fondo": "Vainilla, café, haba tonka, benjuí, almizcle"
+  }
+ },
+ {
+  "id": "h-khamrah-dukhan-lattafa",
+  "nombre": "Khamrah Dukhan Lattafa",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-dukhan-lattafa.jpg",
+  "descripcion": "Intensa y ahumada, con notas especiadas, tabaco y vainilla, dejando una estela cálida, dulce y misteriosa.",
+  "descripcionDetallada": "La versión ahumada de la línea, que evoca el humo del bukhoor: especias y mandarina al inicio, incienso y pachulí en el corazón, y un fondo de tabaco, praliné y ámbar. Se aleja del perfil gourmand de sus hermanas.",
+  "notas": {
+   "salida": "Especias, pimienta de Jamaica, mandarina",
+   "corazon": "Incienso, láudano, azahar, pachulí",
+   "fondo": "Tabaco, praliné, ámbar, haba tonka, benjuí"
+  }
+ },
+ {
+  "id": "h-khamrah-waha-lattafa",
+  "nombre": "Khamrah Waha Lattafa",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-khamrah-waha-lattafa.jpg",
+  "descripcion": "Fresca y veraniega, con cítricos, pepino y sal marina sobre un fondo de vainilla y almizcle.",
+  "descripcionDetallada": "Rompe con el resto de Khamrah: es fresca y veraniega. Cítricos y jengibre abren paso a pepino, sal marina, salvia e iris, y el fondo recupera el sello de la línea con vainilla, haba tonka y almizcle.",
+  "notas": {
+   "salida": "Bergamota, enebro, jengibre, yuzu",
+   "corazon": "Pepino, sal marina, salvia, iris",
+   "fondo": "Vainilla, Ambrofix, akigalawood, almizcle, haba tonka"
+  }
+ },
+ {
+  "id": "h-vulcan-feu",
+  "nombre": "Vulcan Feu",
+  "categoria": "hombre",
+  "marca": "Sin marca indicada",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/h-vulcan-feu.jpg",
+  "descripcion": "Fresco y aromático, con notas cítricas y especiadas, combinadas con un fondo amaderado intenso y envolvente."
+ },
+ {
+  "id": "h-oud-for-glory",
+  "nombre": "Oud for Glory (Bade'e Al Oud)",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-oud-for-glory.jpg",
+  "descripcion": "Cálida y especiada, con notas de café, canela y vainilla, dejando una estela intensa y dulce."
+ },
+ {
+  "id": "h-honor-y-glory",
+  "nombre": "Honor y Glory",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-honor-y-glory.jpg",
+  "descripcion": "Dulce y especiada, con notas de piña, acompañadas de canela, vainilla y sándalo que dejan un aroma cálido y cremoso."
+ },
+ {
+  "id": "h-sublime",
+  "nombre": "Sublime (Bade'e Al Oud)",
+  "categoria": "hombre",
+  "marca": "Lattafa",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/h-sublime.jpg",
+  "descripcion": "Frutal y dulce, con notas de manzana, lichi y rosa, combinadas con ciruela, jazmín y un fondo de vainilla, musgo y pachulí."
+ },
+ {
+  "id": "h-lacoste-noir",
+  "nombre": "Lacoste Noir",
+  "categoria": "hombre",
+  "marca": "Lacoste",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-lacoste-noir.jpg",
+  "descripcion": "Fresco y aromático, con notas de sandía, albahaca y lavanda, sobre un fondo de chocolate oscuro."
+ },
+ {
+  "id": "h-lacoste-red",
+  "nombre": "Lacoste Red",
+  "categoria": "hombre",
+  "marca": "Lacoste",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-lacoste-red.jpg",
+  "descripcion": "Frutal y especiada, con mango, mandarina, acompañados de jengibre, pimienta sobre un fondo amaderado y cálido."
+ },
+ {
+  "id": "h-arabians-tonka",
+  "nombre": "Montale Arabians Tonka",
+  "categoria": "hombre",
+  "marca": "Montale",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-arabians-tonka.jpg",
+  "descripcion": "Dulce, especiado y profundo, con azafrán y bergamota en la salida. Su fondo de haba tonka, azúcar moreno, ámbar."
+ },
+ {
+  "id": "h-chocolate-greedy",
+  "nombre": "Montale Chocolate Greedy",
+  "categoria": "hombre",
+  "marca": "Montale",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-chocolate-greedy.jpg",
+  "descripcion": "Dulce y gourmand, con un aroma marcado a cacao y vainilla, acompañado de naranja amarga, café y haba tonka."
+ },
+ {
+  "id": "h-blue-seduction",
+  "nombre": "Blue Seduction",
+  "categoria": "hombre",
+  "marca": "Antonio Banderas",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-blue-seduction.jpg",
+  "descripcion": "Fresco y acuático, con bergamota, menta y cassis en la salida, seguido de melón de agua y cardamomo."
+ },
+ {
+  "id": "h-nautica-voyage",
+  "nombre": "Nautica Voyage",
+  "categoria": "hombre",
+  "marca": "Nautica",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-nautica-voyage.jpg",
+  "descripcion": "Fresco y acuático, con manzana verde y hojas verdes en la salida. Su fondo combina un acorde de vela, almizcle y notas amaderadas."
+ },
+ {
+  "id": "h-mont-blanc",
+  "nombre": "Montblanc Starwalker",
+  "categoria": "hombre",
+  "marca": "Montblanc",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-mont-blanc.jpg",
+  "descripcion": "Fresco y amaderado, con bergamota, mandarina y bambú, acompañado de jengibre y maderas de cedro y sándalo."
+ },
+ {
+  "id": "h-versace-eau-fraiche",
+  "nombre": "Versace Eau Fraiche",
+  "categoria": "hombre",
+  "marca": "Versace",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-versace-eau-fraiche.jpg",
+  "descripcion": "Fresco y cítrico, con limón, bergamota y carambola, acompañado de cardamomo y hojas de cedro."
+ },
+ {
+  "id": "h-victorinox-swiss-army-classic",
+  "nombre": "Victorinox Swiss Army Classic",
+  "categoria": "hombre",
+  "marca": "Victorinox",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-victorinox-swiss-army-classic.jpg",
+  "descripcion": "Clásico fresco, limpio y aromático con notas herbales y maderas ligeras."
+ },
+ {
+  "id": "h-invictus-victory",
+  "nombre": "Invictus Victory",
+  "categoria": "hombre",
+  "marca": "Paco Rabanne",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-invictus-victory.jpg",
+  "descripcion": "Dulce y cálido, con limón y pimienta rosa en la salida, seguido de incienso y lavanda. Su fondo de vainilla, haba tonka y ámbar."
+ },
+ {
+  "id": "h-acqua-di-gio-profondo",
+  "nombre": "Acqua di Gio Profondo",
+  "categoria": "hombre",
+  "marca": "Giorgio Armani",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-acqua-di-gio-profondo.jpg",
+  "descripcion": "Fresco y acuático, con notas marinas y mandarina verde, acompañado de lavandín y romero."
+ },
+ {
+  "id": "h-acqua-di-gio-profumo",
+  "nombre": "Acqua di Gio Profumo",
+  "categoria": "hombre",
+  "marca": "Giorgio Armani",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-acqua-di-gio-profumo.jpg",
+  "descripcion": "Fresco y profundo, con bergamota y acordes marinos que se mezclan con un intenso toque de incienso."
+ },
+ {
+  "id": "h-acqua-di-gio-pour-homme",
+  "nombre": "Acqua di Gio Pour Homme",
+  "categoria": "hombre",
+  "marca": "Giorgio Armani",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-acqua-di-gio-pour-homme.jpg",
+  "descripcion": "Fresco y acuático, con bergamota, notas marinas y romero, sobre un fondo amaderado. Perfecto para días cálidos, uso diario y salidas."
+ },
+ {
+  "id": "h-hugo-boss",
+  "nombre": "Hugo Boss Unlimited",
+  "categoria": "hombre",
+  "marca": "Hugo Boss",
+  "precio": 70000,
+  "imagen": "assets/imagenes/perfumes/h-hugo-boss.jpg",
+  "descripcion": "Dulce y amaderado, con jengibre, mandarina y fruta de maninka, sobre un fondo de cuero y maderas. Perfecto para días frescos."
+ },
+ {
+  "id": "d-yara-lattafa",
+  "nombre": "Yara Lattafa (Pink)",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-lattafa.jpg",
+  "descripcion": "Fragancia con un aroma suave y envolvente donde destacan notas florales, frutales y un delicado toque avainillado.",
+  "descripcionDetallada": "Dulce y cremosa: abre floral y cítrica con orquídea, heliotropo y mandarina, se vuelve golosa con un acorde gourmand y frutas tropicales, y termina en una base suave de vainilla, almizcle y sándalo.",
+  "notas": {
+   "salida": "Orquídea, heliotropo, mandarina",
+   "corazon": "Acorde gourmand, frutas tropicales",
+   "fondo": "Vainilla, almizcle, sándalo"
+  }
+ },
+ {
+  "id": "d-yara-elixir-lattafa",
+  "nombre": "Yara Elixir Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-elixir-lattafa.jpg",
+  "descripcion": "Dulce, cremosa y femenina, con un delicioso aroma a vainilla, frutas y flores acompañado de un toque cálido y suave."
+ },
+ {
+  "id": "d-yara-candy-lattafa",
+  "nombre": "Yara Candy Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-candy-lattafa.jpg",
+  "descripcion": "Dulce, cremosa y deliciosa, con un aroma a caramelo, frutas y vainilla, como un postre suave y goloso."
+ },
+ {
+  "id": "d-yara-moi-lattafa",
+  "nombre": "Yara Moi - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-yara-moi-lattafa.jpg",
+  "descripcion": "Dulce, floral y cremoso, con un delicioso aroma a vainilla, caramelo y flores blancas. Suave, femenino y elegante."
+ },
+ {
+  "id": "d-yum-yum",
+  "nombre": "Yum Yum",
+  "categoria": "dama",
+  "marca": "Armaf",
+  "precio": 135000,
+  "imagen": "assets/imagenes/perfumes/d-yum-yum.jpg",
+  "descripcion": "Floral, dulce y cremosa, con un delicado aroma a flores, vainilla y notas suaves y envolventes."
+ },
+ {
+  "id": "d-armaf-delights-island-bliss",
+  "nombre": "Armaf Delights Island Bliss",
+  "categoria": "dama",
+  "marca": "Armaf",
+  "precio": 135000,
+  "imagen": "assets/imagenes/perfumes/d-armaf-delights-island-bliss.jpg",
+  "descripcion": "Fresco, tropical y dulce, con un delicioso aroma de bayas y coco, acompañado de flores blancas y un fondo cremoso de vainilla."
+ },
+ {
+  "id": "d-la-bomba-carolina-herrera",
+  "nombre": "La Bomba Carolina Herrera",
+  "categoria": "dama",
+  "marca": "Carolina Herrera",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/d-la-bomba-carolina-herrera.jpg",
+  "descripcion": "Frutal, floral y femenina, con un jugoso aroma a pitahaya y delicadas flores, con un toque a vainilla."
+ },
+ {
+  "id": "d-her-confession-lattafa",
+  "nombre": "Her Confession - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 120000,
+  "imagen": "assets/imagenes/perfumes/d-her-confession-lattafa.jpg",
+  "descripcion": "Floral, cremosa y cálida, con delicadas flores blancas, un toque de canela y un fondo suave de vainilla, tonka y almizcle."
+ },
+ {
+  "id": "d-vanilla-freak-lattafa",
+  "nombre": "Vanilla Freak - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-vanilla-freak-lattafa.jpg",
+  "descripcion": "Dulce, cremosa y gourmand, con un delicioso aroma de vainilla, chocolate y caramelo, como un postre.",
+  "descripcionDetallada": "Vainilla de repostería: acordes de cupcake, canela, almendra, glaseado de azúcar y crema de mantequilla sobre un fondo de vainilla y almizcle. Dulce, cremosa y con un toque de especia.",
+  "notas": {
+   "acordes": "Cupcake, canela, almendra, glaseado de azúcar, crema de mantequilla, vainilla, almizcle"
+  }
+ },
+ {
+  "id": "d-mallow-madness-lattafa",
+  "nombre": "Mallow Madness - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-mallow-madness-lattafa.jpg",
+  "descripcion": "Dulce, frutal y cremosa, con un delicioso aroma de fresa y frambuesa, acompañado de malvavisco, vainilla y crema. Suave y golosa.",
+  "descripcionDetallada": "Malvavisco esponjoso con frutos rojos: fresa, frambuesa y fresia se funden con malvavisco, crema, vainilla y almizcle para un dulce suave y juguetón.",
+  "notas": {
+   "acordes": "Fresa, frambuesa, fresia, malvavisco, crema, vainilla, almizcle"
+  }
+ },
+ {
+  "id": "d-cookie-crave-lattafa",
+  "nombre": "Cookie Crave - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-cookie-crave-lattafa.jpg",
+  "descripcion": "Dulce, cremoso y gourmand, con un delicioso aroma a galleta, cacao, leche y azúcar, acompañado de vainilla y crema batida. Un aroma cálido, suave y muy tentador.",
+  "descripcionDetallada": "Pastelería en un frasco: arranca con mantequilla de cacao, evoluciona a galleta, azúcar y leche, y termina cremosa con vainilla, crema batida y sándalo. Un gourmand cálido, pensado para clima fresco.",
+  "notas": {
+   "salida": "Mantequilla de cacao",
+   "corazon": "Galleta, azúcar, leche",
+   "fondo": "Vainilla, crema batida, sándalo"
+  }
+ },
+ {
+  "id": "d-whipped-pleasure-lattafa",
+  "nombre": "Whipped Pleasure - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-whipped-pleasure-lattafa.jpg",
+  "descripcion": "Dulce, cremoso y gourmand, con un delicioso aroma a caramelo salado y palomitas acarameladas, y un suave toque floral de jazmín.",
+  "descripcionDetallada": "Dulce con matiz salado: palomitas de caramelo, toffee y haba tonka. Entre las más ligeras de la colección Give Me Gourmand, según las fuentes consultadas.",
+  "notas": {
+   "acordes": "Palomitas de caramelo, toffee, haba tonka"
+  }
+ },
+ {
+  "id": "d-thank-u-next-ariana-grande",
+  "nombre": "Thank U, Next - Ariana Grande",
+  "categoria": "dama",
+  "marca": "Ariana Grande",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-thank-u-next-ariana-grande.jpg",
+  "descripcion": "Dulce, frutal y cremosa, con notas de pera, frambuesa y coco, acompañadas de un delicado toque floral de rosa.",
+  "descripcionDetallada": "Cremosa y afrutada con aire playero: pera y frambuesa blancas al inicio, crema de coco y pétalos de rosa en el corazón, y un fondo de azúcar de macarrón y almizcle aterciopelado.",
+  "notas": {
+   "salida": "Pera blanca, frambuesa blanca",
+   "corazon": "Crema de coco, pétalos de rosa",
+   "fondo": "Azúcar de macarrón, almizcle aterciopelado"
+  }
+ },
+ {
+  "id": "d-cloud-2-0-intense-ariana-grande",
+  "nombre": "Cloud 2.0 Intense - Ariana Grande",
+  "categoria": "dama",
+  "marca": "Ariana Grande",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-cloud-2-0-intense-ariana-grande.jpg",
+  "descripcion": "Dulce, cremosa y envolvente, con un delicioso aroma a coco, praliné y vainilla, acompañado de pera y lavanda. Suave, femenina y adictiva.",
+  "descripcionDetallada": "Versión más cálida y duradera de Cloud: abre con flor de lavanda, pera jugosa y bergamota, sigue con crema de coco, praliné y orquídea de vainilla, y se vuelve más almizclada y amaderada al secar.",
+  "notas": {
+   "salida": "Flor de lavanda, pera jugosa, bergamota",
+   "corazon": "Crema de coco, praliné, orquídea de vainilla",
+   "fondo": "Cachemirán, ambroxan, almizcle, notas amaderadas"
+  }
+ },
+ {
+  "id": "d-cloud-pink-ariana-grande",
+  "nombre": "Cloud Pink - Ariana Grande",
+  "categoria": "dama",
+  "marca": "Ariana Grande",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-cloud-pink-ariana-grande.jpg",
+  "descripcion": "Dulce, frutal y cremosa, con un delicioso aroma a piña rosada, pitahaya y frutos rojos.",
+  "descripcionDetallada": "Un Cloud rosado y afrutado: abre con pitahaya, bayas y piña rosada, y los acompaña con orquídea de vainilla, praliné, ámbrette, almizcle y maderas ambaradas. Dulce, cremosa y luminosa.",
+  "notas": {
+   "salida": "Pitahaya, bayas, piña rosada",
+   "acordes": "Orquídea de vainilla, praliné, ámbrette, musgo magenta, almizcle de piel, maderas ambaradas"
+  }
+ },
+ {
+  "id": "d-sweet-tooth-sabrina-carpenter",
+  "nombre": "Sweet Tooth - Sabrina Carpenter",
+  "categoria": "dama",
+  "marca": "Sabrina Carpenter",
+  "precio": 80000,
+  "imagen": "assets/imagenes/perfumes/d-sweet-tooth-sabrina-carpenter.jpg",
+  "descripcion": "Dulce, cremoso y gourmand, con un delicioso aroma a chocolate blanco, vainilla y malvavisco."
+ },
+ {
+  "id": "d-noble-blush-lattafa",
+  "nombre": "Noble Blush - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-noble-blush-lattafa.jpg",
+  "descripcion": "Dulce, floral y delicado, con un aroma suave y femenino que combina notas frutales, flores blancas y un toque cremoso."
+ },
+ {
+  "id": "d-now-women",
+  "nombre": "Now Women",
+  "categoria": "dama",
+  "marca": "Sin marca indicada",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-now-women.jpg",
+  "descripcion": "Fresca, floral y femenina, con un aroma suave y ligeramente dulce, combinando flores delicadas con un toque frutal y limpio."
+ },
+ {
+  "id": "d-odyssey-candee-armaf",
+  "nombre": "Odyssey Candee - Armaf",
+  "categoria": "dama",
+  "marca": "Armaf",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-odyssey-candee-armaf.jpg",
+  "descripcion": "Dulce, frutal y femenino, con un delicioso aroma a fresa, frambuesa y durazno, acompañado de un corazón de caramelo, jazmín y maracuyá."
+ },
+ {
+  "id": "d-berry-on-top-lattafa",
+  "nombre": "Berry On Top - Lattafa",
+  "categoria": "dama",
+  "marca": "Lattafa",
+  "precio": 125000,
+  "imagen": "assets/imagenes/perfumes/d-berry-on-top-lattafa.jpg",
+  "descripcion": "Dulce, frutal y gourmand, con un delicioso aroma a frutos rojos y fresa, acompañado de notas cremosas y azucaradas.",
+  "descripcionDetallada": "El híbrido afrutado de la colección Give Me Gourmand: fresa y frambuesa jugosas coronadas con crema chantilly. Más fresca y frutal que sus hermanas de repostería.",
+  "notas": {
+   "acordes": "Fresa, frambuesa, crema chantilly"
+  }
+ },
+ {
+  "id": "d-toy-2-bubble-gum-moschino",
+  "nombre": "Toy 2 Bubble Gum - Moschino",
+  "categoria": "dama",
+  "marca": "Moschino",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-toy-2-bubble-gum-moschino.jpg",
+  "descripcion": "Dulce y juguetón, con un irresistible aroma a chicle, cítricos confitados y durazno, acompañado de un toque floral de rosa.",
+  "descripcionDetallada": "Chicle y rosa en clave de juego (eau de toilette): cítricos confitados al inicio, un corazón de chicle con canela, arándano, jengibre, rosa búlgara y durazno, y un fondo de cedro, Ambrofix y almizcle.",
+  "notas": {
+   "salida": "Limón confitado, limón italiano, naranja",
+   "corazon": "Chicle, canela, arándano, jengibre, rosa búlgara, durazno",
+   "fondo": "Madera de cedro, Ambrofix, almizcle"
+  }
+ },
+ {
+  "id": "d-toy-2-pearl-moschino",
+  "nombre": "Toy 2 Pearl - Moschino",
+  "categoria": "dama",
+  "marca": "Moschino",
+  "precio": 100000,
+  "imagen": "assets/imagenes/perfumes/d-toy-2-pearl-moschino.jpg",
+  "descripcion": "Fresco y chispeante, con limón y sorbete, acompañado de jazmín y fresia. Un aroma limpio, moderno y ligero.",
+  "descripcionDetallada": "Cítrica y marina, inspirada en la madreperla de Tahití (eau de parfum): sorbete de limón y orégano al inicio, jazmín, arena, fresia y vetiver en el corazón, y un fondo de ciprés y almizcle.",
+  "notas": {
+   "salida": "Sorbete de limón, limón, orégano",
+   "corazon": "Jazmín, arena, vetiver, fresia",
+   "fondo": "Ciprés, almizcle"
+  }
+ },
+ {
+  "id": "d-toy-2-moschino",
+  "nombre": "Toy 2 - Moschino",
+  "categoria": "dama",
+  "marca": "Moschino",
+  "precio": 110000,
+  "imagen": "assets/imagenes/perfumes/d-toy-2-moschino.jpg",
+  "descripcion": "Fresco, afrutado y floral, con manzana verde, mandarina y magnolia.",
+  "descripcionDetallada": "Floral-amaderada-almizclada y fresca (eau de parfum): mandarina, manzana verde y magnolia al inicio, jazmín, peonía y grosella blanca en el corazón, y un fondo de madera ámbar, sándalo y almizcle cristalino.",
+  "notas": {
+   "salida": "Mandarina, manzana verde, magnolia",
+   "corazon": "Jazmín, peonía, grosella blanca",
+   "fondo": "Madera ámbar, sándalo, almizcle cristalino"
+  }
+ }
+]
