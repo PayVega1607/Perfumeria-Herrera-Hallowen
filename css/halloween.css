@@ -1,0 +1,55 @@
+/* Especial de Halloween — todo con prefijo halloween- (solo afecta a vistas/halloween.html) */
+.halloween-seccion { position: relative; overflow: hidden; isolation: isolate; background: radial-gradient(ellipse at 50% 0%, #1d1424 0%, var(--fondo) 65%); }
+.halloween-contenido { position: relative; z-index: 1; max-width: 1200px; margin: 0 auto; padding: 4rem 5vw; }
+.halloween-cabecera { text-align: center; margin-bottom: 1rem; }
+.halloween-titulo { font-size: clamp(2.2rem, 6vw, 3.8rem); line-height: 1.1; }
+.halloween-titulo em { color: #e8863a; font-style: italic; }
+.halloween-intro { max-width: 38rem; margin: 1rem auto 0; font-size: 1.05rem; }
+.halloween-grupo { margin-top: 3.5rem; }
+.halloween-subtitulo { display: flex; align-items: center; gap: 1rem; font-size: 1.5rem; color: var(--crema); }
+.halloween-subtitulo::before, .halloween-subtitulo::after { content: ""; height: 1px; flex: 1; background: linear-gradient(90deg, transparent, #e8863a, transparent); }
+.halloween-grilla .tarjeta { background: rgba(20, 17, 13, .95); }
+.halloween-grilla .tarjeta:hover { border-color: #e8863a; }
+
+/* Decoración blanca, flotante, sin interferir con clics ni scroll */
+.halloween-decoracion { position: absolute; inset: 0; z-index: 0; pointer-events: none; }
+.halloween-deco { position: absolute; display: block; background: no-repeat center / contain; filter: brightness(0) invert(1); opacity: .22; pointer-events: none; }
+.halloween-deco--murcielago { background-image: url("../assets/halloween/murcielago.svg"); }
+.halloween-deco--calabaza { background-image: url("../assets/halloween/calabaza.svg"); }
+.halloween-deco--gato { background-image: url("../assets/halloween/gato.svg"); }
+.halloween-deco--telarana { background-image: url("../assets/halloween/telarana.svg"); }
+.halloween-deco--arana { background-image: url("../assets/halloween/arana.svg"); }
+.halloween-deco--fantasma { background-image: url("../assets/halloween/fantasma.svg"); }
+
+/* Posiciones irregulares: bordes y huecos */
+.halloween-d1  { width: 90px;  height: 60px;  top: 3%;   left: 6%;  transform: rotate(-12deg); }
+.halloween-d2  { width: 60px;  height: 40px;  top: 9%;   right: 8%; transform: rotate(15deg); opacity: .3; }
+.halloween-d3  { width: 45px;  height: 30px;  top: 20%;  left: 30%; transform: rotate(8deg); opacity: .18; }
+.halloween-d4  { width: 110px; height: 110px; top: 14%;  right: 1%; transform: rotate(10deg); }
+.halloween-d5  { width: 70px;  height: 70px;  top: 38%;  left: 0;   transform: rotate(-14deg); opacity: .18; }
+.halloween-d6  { width: 130px; height: 130px; top: 33%;  right: 0;  transform: rotate(-4deg); }
+.halloween-d7  { width: 170px; height: 170px; top: 0;    left: 0;   opacity: .28; }
+.halloween-d8  { width: 140px; height: 140px; bottom: 0; right: 0;  transform: scaleX(-1) scaleY(-1); opacity: .25; }
+.halloween-d9  { width: 60px;  height: 90px;  top: 44%;  left: 2%;  opacity: .25; }
+.halloween-d10 { width: 100px; height: 120px; top: 56%;  right: 1%; transform: rotate(8deg); }
+.halloween-d11 { width: 75px;  height: 90px;  bottom: 22%; left: 1%; transform: rotate(-10deg); opacity: .18; }
+.halloween-d12 { width: 80px;  height: 55px;  bottom: 12%; left: 40%; transform: rotate(-6deg); opacity: .2; }
+.halloween-d13 { width: 95px;  height: 95px;  bottom: 3%; left: 3%;  transform: rotate(12deg); }
+.halloween-d14 { width: 50px;  height: 80px;  bottom: 30%; right: 3%; opacity: .2; }
+
+@media (max-width: 900px) {
+  .halloween-d7 { width: 120px; height: 120px; }
+  .halloween-d8 { width: 100px; height: 100px; }
+  .halloween-d4, .halloween-d6 { width: 80px; height: 80px; }
+  .halloween-d10 { width: 70px; height: 85px; }
+}
+@media (max-width: 600px) {
+  .halloween-contenido { padding: 3rem 4vw; }
+  .halloween-extra { display: none; }
+  .halloween-deco { opacity: .16; }
+  .halloween-d1 { width: 60px; height: 40px; }
+  .halloween-d4, .halloween-d6, .halloween-d10, .halloween-d13 { width: 60px; height: 60px; }
+  .halloween-d7 { width: 90px; height: 90px; }
+  .halloween-d8 { width: 80px; height: 80px; }
+  .halloween-subtitulo { font-size: 1.2rem; }
+}

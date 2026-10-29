@@ -1,0 +1,25 @@
+@media (max-width: 900px) {
+  .btn-menu { display: block; }
+  .menu { position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; gap: 0; background: var(--fondo); border-bottom: 1px solid var(--linea); max-height: 0; overflow: hidden; transition: max-height .3s; }
+  .menu.abierto { max-height: 420px; }
+  .menu a { padding: .9rem 5vw; border: 0; }
+  .pilares { grid-template-columns: 1fr; gap: 1.2rem; }
+}
+@media (max-width: 600px) {
+  .grilla { grid-template-columns: repeat(2, 1fr); gap: .8rem; }
+  .tarjeta { padding: .7rem; }
+  .tarjeta-nombre { font-size: .9rem; }
+  .marca span { display: none; }
+  .hero-botones .btn { width: 100%; text-align: center; }
+}
+@media (max-width: 340px) { .grilla { grid-template-columns: 1fr; } }
+
+@media (max-width: 900px) {
+  .filtros { grid-template-columns: repeat(2, 1fr); }
+  .filtros .f-busca, .filtros .btn { grid-column: 1 / -1; }
+  .menu .btn-carrito { margin: .6rem 5vw; text-align: left; }
+}
+@media (max-width: 600px) {
+  .detalle[open] { grid-template-columns: 1fr; }
+  .detalle img { max-height: 300px; }
+}
